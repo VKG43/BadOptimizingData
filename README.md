@@ -1,7 +1,7 @@
 # BadOptimizingData
 
 ## Introduction and Motivation
-This project seeks to create a framework where in disparate, time-correlated data sources are combined to create an optimizable and not quite random set. 
+This project seeks to create a framework where disparate, time-correlated data sources are combined to create an optimizable and not quite random set. 
 
 In one of my other projects I have found myself trying to code optimizers from scratch and the existing sources (Machine Learning Mastery) while educationally useful tend to use mathematically simple optimizer data such as: $z=x^{2}+y^{2}$ which while usable tend to make the process of finding the derivatives too easy. 
 
