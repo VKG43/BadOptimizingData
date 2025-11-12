@@ -1,5 +1,5 @@
 # BadOptimizingData
-
+![project website]{https://grantvanderkolk.com/bad-data-for-optimization-project/}
 ## Introduction and Motivation
 This project seeks to create a framework where disparate, time-correlated data sources are combined to create an optimizable and not quite random set. 
 
