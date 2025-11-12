@@ -1,5 +1,5 @@
 # BadOptimizingData
-![project website]{https://grantvanderkolk.com/bad-data-for-optimization-project/}
+[Project Website](https://grantvanderkolk.com/bad-data-for-optimization-project/)
 ## Introduction and Motivation
 This project seeks to create a framework where disparate, time-correlated data sources are combined to create an optimizable and not quite random set. 
 
@@ -8,10 +8,10 @@ In one of my other projects I have found myself trying to code optimizers from s
 As such, this project is how I personally made data that, while practically useless, presents a more interesting optimization challenge. 
 
 ## Process
-I selected two of the datasets on the wonderful Alan Turing institute's TCPD datasets (https://github.com/alan-turing-institute/TCPD). In my case I took homeruns in the American Baseball League and the flow of the Nile river at Aswan. Both of these datasets were reduced to range from 1901-1970.
+I selected two of the datasets on the wonderful [Alan Turing institute's TCPD datasets](https://github.com/alan-turing-institute/TCPD). In my case I took homeruns in the American Baseball League and the flow of the Nile river at Aswan. Both of these datasets were reduced to range from 1901-1970.
 
 ## Nile Data
-The data for the Nile flow volume looked like: 
+The data for the Nile flow volume looked like: \
 ![niledata](/Images/Nile.png)
 
 ## Baseball Data
